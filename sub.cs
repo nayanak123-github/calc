@@ -7,6 +7,5 @@ index c5d3a91..6e655d3 100644
 public sub(int a , int b)
 {
 - int c = a - b;
-+ int d = a - b;
 }
   
